@@ -57,18 +57,6 @@ Scipy.stats for statistical testing (AB test)
 
 NumPy for numerical operations
 
-▶️ How to Run
-Open in Google Colab (recommended):
-
-
-Or, clone the repo and run locally in Jupyter:
-
-bash
-Copy
-Edit
-git clone https://github.com/sajadkarimii/OIMM.git
-cd OIMM
-jupyter notebook OIMM.ipynb
 📈 Key Analyses Explained
 1. Seasonal Pattern Detection
 The feature VSBK (Visibility) is grouped by month and visualized to uncover recurring seasonal patterns using boxplots and line trends.
