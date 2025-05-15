@@ -68,7 +68,6 @@ Copy
 Edit
 git clone https://github.com/sajadkarimii/OIMM.git
 cd OIMM
-pip install -r requirements.txt
 jupyter notebook OIMM.ipynb
 📈 Key Analyses Explained
 1. Seasonal Pattern Detection
@@ -91,9 +90,6 @@ The maximum annual average temperature is located, and an AB Test is performed t
 
 📊 Sample Output Visuals
 Note: Visuals include line charts, scatter plots, statistical tables, and regression forecasts, all generated within the notebook.
-
-📃 License
-This project is released under the MIT License. See the LICENSE file for details.
 
 📬 Contact
 For questions, suggestions, or collaborations, please reach out via GitHub:
